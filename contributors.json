@@ -16,16 +16,44 @@
         "11599528+brecert@users.noreply.github.com": "01EZZJ98RM1YVB1FW9FG221CAN",
         "39768508+Zomatree@users.noreply.github.com": "01FD58YK5W7QRV5H3D64KTQYX3"
     },
-    "names": {
-        "01EX2NCWQ0CHS3QJF0FEQS1GR4": "insert",
-        "01F1WKM5TK2V6KCZWR6DGBJDTZ": "Infi",
-        "01FEEFJCKY5C4DMMJYZ20ACWWC": "Rexogamer",
-        "01FC1HP5H22F0M34MFFM9DZ099": "TaiAurori",
-        "01F4SSHV9AQVWY92A6QEEPZ1MM": "div",
-        "01EXAME8DPWQH72RCBPX490ZMQ": "FatalErrorCoded",
-        "01EXAF3KX65608AJ4NG27YG1HM": "Jan",
-        "01EZZJ98RM1YVB1FW9FG221CAN": "brecert",
-        "01FD58YK5W7QRV5H3D64KTQYX3": "Zomatree"
+    "info": {
+        "01EX2NCWQ0CHS3QJF0FEQS1GR4": {
+            "name": "insert",
+            "github": "insertish",
+            "link": "https://insrt.uk"
+        },
+        "01F1WKM5TK2V6KCZWR6DGBJDTZ": {
+            "name": "infi",
+            "github": "infi"
+        },
+        "01FEEFJCKY5C4DMMJYZ20ACWWC": {
+            "name": "Rexogamer",
+            "github": "rexogamer"
+        },
+        "01FC1HP5H22F0M34MFFM9DZ099": {
+            "name": "TaiAurori",
+            "github": "taiaurori"
+        },
+        "01F4SSHV9AQVWY92A6QEEPZ1MM": {
+            "name": "div",
+            "github": "div2005"
+        },
+        "01EXAME8DPWQH72RCBPX490ZMQ": {
+            "name": "FatalErrorCoded",
+            "github": "fatalerrorcoded"
+        },
+        "01EXAF3KX65608AJ4NG27YG1HM": {
+            "name": "Jan",
+            "github": "janderedev"
+        },
+        "01EZZJ98RM1YVB1FW9FG221CAN": {
+            "name": "bree",
+            "github": "brecert"
+        },
+        "01FD58YK5W7QRV5H3D64KTQYX3": {
+            "name": "Zomatree",
+            "github": "zomatree"
+        }
     },
     "team": [
         "01EX2NCWQ0CHS3QJF0FEQS1GR4",

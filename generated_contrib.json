@@ -2,55 +2,83 @@
 	{
 		"id": "01EX2NCWQ0CHS3QJF0FEQS1GR4",
 		"contributions": 669320,
-		"name": "insert",
+		"info": {
+			"name": "insert",
+			"github": "insertish",
+			"link": "https://insrt.uk"
+		},
 		"team": true
 	},
 	{
 		"id": "01FEEFJCKY5C4DMMJYZ20ACWWC",
 		"contributions": 20453,
-		"name": "Rexogamer",
+		"info": {
+			"name": "Rexogamer",
+			"github": "rexogamer"
+		},
 		"team": true
 	},
 	{
 		"id": "01EXAME8DPWQH72RCBPX490ZMQ",
 		"contributions": 8453,
-		"name": "FatalErrorCoded",
+		"info": {
+			"name": "FatalErrorCoded",
+			"github": "fatalerrorcoded"
+		},
 		"team": true
 	},
 	{
 		"id": "01EZZJ98RM1YVB1FW9FG221CAN",
 		"contributions": 3708,
-		"name": "brecert",
+		"info": {
+			"name": "bree",
+			"github": "brecert"
+		},
 		"team": false
 	},
 	{
 		"id": "01F1WKM5TK2V6KCZWR6DGBJDTZ",
 		"contributions": 3645,
-		"name": "Infi",
+		"info": {
+			"name": "infi",
+			"github": "infi"
+		},
 		"team": true
 	},
 	{
 		"id": "01EXAF3KX65608AJ4NG27YG1HM",
 		"contributions": 1277,
-		"name": "Jan",
-		"team": false
+		"info": {
+			"name": "Jan",
+			"github": "janderedev"
+		},
+		"team": true
 	},
 	{
 		"id": "01FC1HP5H22F0M34MFFM9DZ099",
 		"contributions": 527,
-		"name": "TaiAurori",
+		"info": {
+			"name": "TaiAurori",
+			"github": "taiaurori"
+		},
 		"team": false
 	},
 	{
 		"id": "01FD58YK5W7QRV5H3D64KTQYX3",
 		"contributions": 171,
-		"name": "Zomatree",
-		"team": false
+		"info": {
+			"name": "Zomatree",
+			"github": "zomatree"
+		},
+		"team": true
 	},
 	{
 		"id": "01F4SSHV9AQVWY92A6QEEPZ1MM",
 		"contributions": 30,
-		"name": "div",
+		"info": {
+			"name": "div",
+			"github": "div2005"
+		},
 		"team": false
 	}
 ]

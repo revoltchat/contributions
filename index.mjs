@@ -80,8 +80,8 @@ entries
 // 6. Sort again
 const output_claimed = Object
     .keys(mapped)
-    .map(id => ({ id, contributions: mapped[id], name: contributors.names[id], team: contributors.team.includes(id) }))
-    .filter(({ name }) => name)
+    .map(id => ({ id, contributions: mapped[id], info: contributors.info[id], team: contributors.team.includes(id) }))
+    .filter(({ info }) => info)
     .sort((a,b)=>b.contributions-a.contributions);
 
 // 7. Write to files
@@ -89,3 +89,17 @@ await Promise.all([
     writeFile('generated_contrib.json', JSON.stringify(output_claimed, null, '\t')),
     writeFile('generated_unclaimed.json', JSON.stringify(unclaimed, null, '\t')),
 ]);
+
+// 8. Generate README
+const FILE = `# Contributors
+
+Below is a table of contributions by users.
+
+| Name | Contributions |   |
+|------|:-------------:|---|
+${output_claimed
+    .map(({ info, contributions }) => `|${info.link ? `[${info.name}](https://github.com/${info.github})` : info.name}|${contributions}|${info.github ? `[GitHub](${info.github})` : ''}`)
+    .join('\n')}
+`;
+
+await writeFile('README.md', FILE);

@@ -1,10 +1,15 @@
-## Requirements
+# Contributors
 
-`git-quick-stats`
+Below is a table of contributions by users.
 
-## Workflow
-
-1. Fetch list of repositories from <https://api.github.com/orgs/revoltchat/repos?type=source>
-2. Clone full repository history locally
-3. Use `git-quick-stats -T` to generate summary
-4. Parse summary and map emails to Revolt IDs to generate contributions list
+| Name | Contributions |   |
+|------|:-------------:|---|
+|[insert](https://github.com/insertish)|669320|[GitHub](insertish)
+|Rexogamer|20453|[GitHub](rexogamer)
+|FatalErrorCoded|8453|[GitHub](fatalerrorcoded)
+|bree|3708|[GitHub](brecert)
+|infi|3645|[GitHub](infi)
+|Jan|1277|[GitHub](janderedev)
+|TaiAurori|527|[GitHub](taiaurori)
+|Zomatree|171|[GitHub](zomatree)
+|div|30|[GitHub](div2005)
