@@ -4,11 +4,17 @@
         "me@insrt.uk": "01EX2NCWQ0CHS3QJF0FEQS1GR4",
         "wingit@geist.ga": "01F1WKM5TK2V6KCZWR6DGBJDTZ",
         "weblate@geist.ga": "01F1WKM5TK2V6KCZWR6DGBJDTZ",
+        "45950794+infi@users.noreply.github.com": "01F1WKM5TK2V6KCZWR6DGBJDTZ",
         "beartechtalks@gmail.com": "01FEEFJCKY5C4DMMJYZ20ACWWC",
         "31465218+TaiAurori@users.noreply.github.com": "01FC1HP5H22F0M34MFFM9DZ099",
         "div2005.kk@gmail.com": "01F4SSHV9AQVWY92A6QEEPZ1MM",
+        "46396764+div2005@users.noreply.github.com": "01F4SSHV9AQVWY92A6QEEPZ1MM",
         "git@fatalerrorcoded.eu": "01EXAME8DPWQH72RCBPX490ZMQ",
-        "me@fatalerrorcoded.eu": "01EXAME8DPWQH72RCBPX490ZMQ"
+        "me@fatalerrorcoded.eu": "01EXAME8DPWQH72RCBPX490ZMQ",
+        "me@janderedev.xyz": "01EXAF3KX65608AJ4NG27YG1HM",
+        "me@bree.dev": "01EZZJ98RM1YVB1FW9FG221CAN",
+        "11599528+brecert@users.noreply.github.com": "01EZZJ98RM1YVB1FW9FG221CAN",
+        "39768508+Zomatree@users.noreply.github.com": "01FD58YK5W7QRV5H3D64KTQYX3"
     },
     "names": {
         "01EX2NCWQ0CHS3QJF0FEQS1GR4": "insert",
@@ -16,12 +22,21 @@
         "01FEEFJCKY5C4DMMJYZ20ACWWC": "Rexogamer",
         "01FC1HP5H22F0M34MFFM9DZ099": "TaiAurori",
         "01F4SSHV9AQVWY92A6QEEPZ1MM": "div",
-        "01EXAME8DPWQH72RCBPX490ZMQ": "FatalErrorCoded"
+        "01EXAME8DPWQH72RCBPX490ZMQ": "FatalErrorCoded",
+        "01EXAF3KX65608AJ4NG27YG1HM": "Jan",
+        "01EZZJ98RM1YVB1FW9FG221CAN": "brecert",
+        "01FD58YK5W7QRV5H3D64KTQYX3": "Zomatree"
     },
     "team": [
         "01EX2NCWQ0CHS3QJF0FEQS1GR4",
         "01EXAME8DPWQH72RCBPX490ZMQ",
         "01F1WKM5TK2V6KCZWR6DGBJDTZ",
-        "01FEEFJCKY5C4DMMJYZ20ACWWC"
+        "01FEEFJCKY5C4DMMJYZ20ACWWC",
+        "01EXAF3KX65608AJ4NG27YG1HM",
+        "01FD58YK5W7QRV5H3D64KTQYX3"
+    ],
+    "ignore": [
+        "noreply@github.com",
+        "49699333+dependabot[bot]@users.noreply.github.com"
     ]
 }
