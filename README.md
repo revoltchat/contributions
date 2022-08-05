@@ -4,7 +4,7 @@ Below is a table of contributions by users.
 
 | Name | Contributions |   |   |
 |------|:-------------:|:-:|---|
-|[insert](https://github.com/https://insrt.uk)|669320|(91.67%)|[GitHub](insertish)
+|[insert](https://insrt.uk)|669320|(91.67%)|[GitHub](insertish)
 |Rexogamer|20453|(2.80%)|[GitHub](rexogamer)
 |FatalErrorCoded|8453|(1.16%)|[GitHub](fatalerrorcoded)
 |bree|3708|(0.51%)|[GitHub](brecert)
