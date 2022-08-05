@@ -100,6 +100,8 @@ Below is a table of contributions by users.
 ${output_claimed
     .map(({ info, contributions }) => `|${info.link ? `[${info.name}](https://github.com/${info.github})` : info.name}|${contributions}|${info.github ? `[GitHub](${info.github})` : ''}`)
     .join('\n')}
+
+If you would like to list your contributions, please edit [contributors.json](https://github.com/revoltchat/contributions/blob/master/contributors.json) and add the corresponding information.
 `;
 
 await writeFile('README.md', FILE);

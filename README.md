@@ -13,3 +13,5 @@ Below is a table of contributions by users.
 |TaiAurori|527|[GitHub](taiaurori)
 |Zomatree|171|[GitHub](zomatree)
 |div|30|[GitHub](div2005)
+
+If you would like to list your contributions, please edit [contributors.json](https://github.com/revoltchat/contributions/blob/master/contributors.json) and add the corresponding information.
