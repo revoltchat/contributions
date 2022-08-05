@@ -41,6 +41,7 @@ if (flag === '--fetch') {
 }
 
 // 3. Generate and parse summary
+let total = 0;
 const contributions_by_email = {};
 for (const name of await readdir('repos')) {
     if (name === '.gitkeep') continue;
@@ -51,8 +52,12 @@ for (const name of await readdir('repos')) {
 
     let match;
     while (match = RE_CONTRIBUTIONS.exec(stats)) {
-        const value = parseInt(match[3]);
-        contributions_by_email[match[2]] = (contributions_by_email[match[2]] || 0) + value;
+        const email = match[2],
+              value = parseInt(match[3]);
+
+        if (contributors.ignore.includes(email)) continue;
+        contributions_by_email[email] = (contributions_by_email[email] || 0) + value;
+        total += value;
     }
 }
 
@@ -95,10 +100,14 @@ const FILE = `# Contributors
 
 Below is a table of contributions by users.
 
-| Name | Contributions |   |
-|------|:-------------:|---|
+| Name | Contributions |   |   |
+|------|:-------------:|:-:|---|
 ${output_claimed
-    .map(({ info, contributions }) => `|${info.link ? `[${info.name}](https://github.com/${info.github})` : info.name}|${contributions}|${info.github ? `[GitHub](${info.github})` : ''}`)
+    .map(({ info, contributions }) => `|${info.link
+        ? `[${info.name}](https://github.com/${info.github})`
+        : info.name}|${contributions}|(${(contributions / total * 100).toFixed(2)}%)|${info.github
+            ? `[GitHub](${info.github})`
+            : ''}`)
     .join('\n')}
 
 If you would like to list your contributions, please edit [contributors.json](https://github.com/revoltchat/contributions/blob/master/contributors.json) and add the corresponding information.
