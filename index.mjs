@@ -106,7 +106,7 @@ ${output_claimed
     .map(({ info, contributions }) => `|${info.link
         ? `[${info.name}](${info.link})`
         : info.name}|${contributions}|(${(contributions / total * 100).toFixed(2)}%)|${info.github
-            ? `[GitHub](${info.github})`
+            ? `[GitHub](https://github.com/${info.github})`
             : ''}`)
     .join('\n')}
 
