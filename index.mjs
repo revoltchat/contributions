@@ -104,7 +104,7 @@ Below is a table of contributions by users.
 |------|:-------------:|:-:|---|
 ${output_claimed
     .map(({ info, contributions }) => `|${info.link
-        ? `[${info.name}](https://github.com/${info.github})`
+        ? `[${info.name}](https://github.com/${info.link})`
         : info.name}|${contributions}|(${(contributions / total * 100).toFixed(2)}%)|${info.github
             ? `[GitHub](${info.github})`
             : ''}`)
