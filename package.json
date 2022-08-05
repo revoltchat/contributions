@@ -1,0 +1,9 @@
+{
+  "name": "contributions",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "simple-git": "^3.11.0"
+  }
+}
