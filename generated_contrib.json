@@ -1,7 +1,7 @@
 [
 	{
 		"id": "01EX2NCWQ0CHS3QJF0FEQS1GR4",
-		"contributions": 669320,
+		"contributions": 697480,
 		"info": {
 			"name": "insert",
 			"github": "insertish",
@@ -11,19 +11,29 @@
 	},
 	{
 		"id": "01FEEFJCKY5C4DMMJYZ20ACWWC",
-		"contributions": 20453,
+		"contributions": 21202,
 		"info": {
 			"name": "Rexogamer",
-			"github": "rexogamer"
+			"github": "rexogamer",
+			"link": "https://rexogamer.github.io"
 		},
 		"team": true
 	},
 	{
 		"id": "01EXAME8DPWQH72RCBPX490ZMQ",
-		"contributions": 8453,
+		"contributions": 7791,
 		"info": {
 			"name": "FatalErrorCoded",
 			"github": "fatalerrorcoded"
+		},
+		"team": true
+	},
+	{
+		"id": "01F1WKM5TK2V6KCZWR6DGBJDTZ",
+		"contributions": 5059,
+		"info": {
+			"name": "infi",
+			"github": "infi"
 		},
 		"team": true
 	},
@@ -37,17 +47,8 @@
 		"team": false
 	},
 	{
-		"id": "01F1WKM5TK2V6KCZWR6DGBJDTZ",
-		"contributions": 3645,
-		"info": {
-			"name": "infi",
-			"github": "infi"
-		},
-		"team": true
-	},
-	{
 		"id": "01EXAF3KX65608AJ4NG27YG1HM",
-		"contributions": 1277,
+		"contributions": 1439,
 		"info": {
 			"name": "Jan",
 			"github": "janderedev"

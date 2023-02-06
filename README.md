@@ -4,12 +4,12 @@ Below is a table of contributions by users.
 
 | Name | Contributions |   |   |
 |------|:-------------:|:-:|---|
-|[insert](https://insrt.uk)|669320|(91.67%)|[GitHub](https://github.com/insertish)
-|Rexogamer|20453|(2.80%)|[GitHub](https://github.com/rexogamer)
-|FatalErrorCoded|8453|(1.16%)|[GitHub](https://github.com/fatalerrorcoded)
-|bree|3708|(0.51%)|[GitHub](https://github.com/brecert)
-|infi|3645|(0.50%)|[GitHub](https://github.com/infi)
-|Jan|1277|(0.17%)|[GitHub](https://github.com/janderedev)
+|[insert](https://insrt.uk)|697480|(91.21%)|[GitHub](https://github.com/insertish)
+|[Rexogamer](https://rexogamer.github.io)|21202|(2.77%)|[GitHub](https://github.com/rexogamer)
+|FatalErrorCoded|7791|(1.02%)|[GitHub](https://github.com/fatalerrorcoded)
+|infi|5059|(0.66%)|[GitHub](https://github.com/infi)
+|bree|3708|(0.48%)|[GitHub](https://github.com/brecert)
+|Jan|1439|(0.19%)|[GitHub](https://github.com/janderedev)
 |TaiAurori|527|(0.07%)|[GitHub](https://github.com/taiaurori)
 |Zomatree|171|(0.02%)|[GitHub](https://github.com/zomatree)
 |div|30|(0.00%)|[GitHub](https://github.com/div2005)
