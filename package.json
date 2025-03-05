@@ -4,6 +4,7 @@
   "main": "index.mjs",
   "license": "MIT",
   "dependencies": {
-    "simple-git": "^3.11.0"
+    "gitlog": "^5.1.0",
+    "simple-git": "^3.27.0"
   }
 }

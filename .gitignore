@@ -4,3 +4,8 @@ generated_unclaimed.json
 
 repos/*
 !repos/.gitkeep
+
+glogs/*
+!glogs/.gitkeep
+
+.env
